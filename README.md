@@ -1,75 +1,122 @@
 # Hi, I'm Sanjay Bashetty 👋
 
-## About Me
+### Computer Science Student | AI/ML | Backend Development
 
-Computer Science Engineering student at Keshav Memorial Engineering College with a strong interest in Artificial Intelligence, Machine Learning, and Software Development. I enjoy solving problems, building real-world applications, and exploring modern AI technologies.
+I'm a Computer Science student at **Keshav Memorial Engineering College, Hyderabad**, interested in **AI, LLM applications, backend development, and problem solving**.
 
-## Technical Skills
+I enjoy building practical AI-powered applications and turning ideas into working products.
 
-### Programming Languages
+---
 
-Java, Python, C, JavaScript
+## 🚀 Featured Projects
 
-### Frontend
+### 📰 AI News Aggregator
+An automated personalized news aggregation system that collects content from **YouTube channels and RSS feeds**, uses LLMs to summarize and rank content based on user interests, stores data in PostgreSQL, and delivers personalized daily email digests.
 
-HTML, CSS, React.js
+**Tech:** Python · LLMs · PostgreSQL · YouTube API · Gmail API
 
-### Frameworks
+🔗 **Repository:** [AI News Aggregator](https://github.com/bashetty-sanjay/AI-News-Aggregator)
 
-Spring Boot, FastAPI
+---
 
-### Databases
+### 🤖 Collaborative AI
+A **multi-model LLM deliberation system** that sends queries to 11+ LLMs, compares their responses, and uses an anonymized peer-review process to select the best response.
 
-MySQL, MongoDB
+**Tech:** Python · FastAPI · OpenRouter · LLMs · Vercel
 
-### Machine Learning
+🔗 **Live Demo:** [Collaborative AI](https://collaborative-ai-eight.vercel.app/)
 
-TensorFlow, CNN, Transformers, YOLOv8
+---
 
-### Tools
+### 🧑‍💻 Avatar Lab
+An AI talking-avatar generator that converts **text and a reference image into a lip-synced video** using speech synthesis and facial animation.
 
-Git, GitHub, Kubernetes, VS Code
+**Tech:** Python · Coqui TTS · DreamTalk · Computer Vision
 
-### Core Concepts
+🔗 **GitHub:** [Avatar Lab](https://github.com/bashetty-sanjay)
 
-Data Structures & Algorithms, OOPs, DBMS, Computer Networks
+---
 
-## Projects
+## 🛠️ Tech Stack
 
-### Pneumonia Detection
+**Languages**
+- Java
+- Python
+- C
+- JavaScript
 
-* Developed a CNN-based deep learning model using TensorFlow.
-* Applied image preprocessing and data augmentation.
-* Improved performance through hyperparameter tuning and regularization.
+**Backend & APIs**
+- FastAPI
+- Flask
+- REST APIs
 
-### Vehicle Damage Assessment
+**Databases**
+- MySQL
+- PostgreSQL
+- MongoDB
 
-* Trained a YOLOv8 model to classify vehicle damage severity.
-* Added image validation before prediction.
-* Built a FastAPI backend for real-time inference.
+**AI / Machine Learning**
+- LLMs
+- RAG
+- Transformers
+- CNN
+- Computer Vision
+- MediaPipe
+- OpenCV
+- NumPy
+- Pandas
 
-### Avatar Lab – AI Talking Avatar Generator
+**Tools & Platforms**
+- Git
+- GitHub
+- VS Code
+- Vercel
+- OpenRouter API
 
-* Built a React-based frontend for avatar generation.
-* Integrated Coqui TTS for speech synthesis.
-* Used DreamTalk to generate synchronized talking avatar videos.
+---
 
-## Education
+## 📊 What I Work On
 
-Bachelor of Engineering in Computer Science Engineering
-Keshav Memorial Engineering College (2023–2027)
+- 🤖 AI & LLM applications
+- 🔌 API and backend development
+- 🧠 Machine Learning & Computer Vision
+- 🗄️ Database-driven applications
+- 🌐 Web applications
+- 💻 Data Structures & Algorithms
 
-## Interests
+---
 
-* Artificial Intelligence
-* Machine Learning
-* Problem Solving
-* Chess
-* Badminton
+## 🎓 Education
 
-## Connect With Me
+**Keshav Memorial Engineering College, Hyderabad**  
+B.E. Computer Science Engineering · 2023–2027  
+CGPA: **7.88/10**
 
-* LinkedIn: [www.linkedin.com/in/sanjay-bashetty](http://www.linkedin.com/in/sanjay-bashetty)
-Email: bashettysanjay@gmail.com
+---
 
-⭐ Always learning, building, and improving.
+## 🏆 Achievements
+
+- Participated in **Hack With Hyderabad 3.0**, a Microsoft-hosted hackathon.
+- Shipped **Collaborative AI**, a multi-model LLM application, as a live public web application.
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sanjay-bashetty">
+    <img src="https://img.shields.io/badge/LinkedIn-Sanjay%20Bashetty-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/bashetty-sanjay">
+    <img src="https://img.shields.io/badge/GitHub-bashetty--sanjay-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://collaborative-ai-eight.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Project-Collaborative%20AI-black?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+📧 **Email:** bashettysanjay@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
